@@ -1,0 +1,13 @@
+body {
+	margin: 0px;
+	padding: 0px;
+    background-color: grey;
+}
+
+h1 {
+    color: white;
+}
+
+table, tr, td {
+    border: 1px solid black;
+}
